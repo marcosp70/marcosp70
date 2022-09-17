@@ -1,16 +1,23 @@
-### Hi there 👋
+# Prazer, sou o Marcos Paulo! 👋😄
 
-<!--
-**marcosp70/marcosp70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas vindas ao meu repositório! Aqui você verá alguns projetos que venho desenvolvendo, tanto trabalhos da faculdade, do estágio, quanto projetos pessoais para me divertir!
 
-Here are some ideas to get you started:
+## Quem sou eu? 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou o Marcos Paulo, aluno de Engenharia de Computação do CEFET-MG. Atualmente me encontro no 4º período da faculdade e sou bolsista PRODEP em um projeto de desenvolvimento web utilizando Django, além de ser Scrum da equipe de eventos do PET de Engenharia de Computação da minha faculdade. 
+
+<div align="center">
+  <a href="https://github.com/marcosp70">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosp70&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosp70&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Marcos-HTML" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Marcos-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Marcos-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Marcos-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Marcos-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Marcos-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</div>
+
