@@ -1,6 +1,6 @@
 # Prazer, sou o Marcos Paulo! 👋😄
 
-Boas vindas ao meu repositório! Aqui você verá alguns projetos que venho desenvolvendo, tanto trabalhos da faculdade, do estágio, quanto projetos pessoais para me divertir!
+Boas vindas ao meu repositório! Aqui você verá alguns projetos que venho desenvolvendo, tanto trabalhos da faculdade e do estágio, quanto projetos pessoais para me divertir!
 
 ## Quem sou eu? 🤓
 
