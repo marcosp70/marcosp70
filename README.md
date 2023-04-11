@@ -1,6 +1,6 @@
 # Prazer, sou o Marcos Paulo! 👋😄
 
-<img height="180em" src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif"/>
+<img height="180em" src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif](https://i.gifer.com/758X.gif"/>
 
 Boas vindas ao meu repositório! Aqui você verá alguns projetos que venho desenvolvendo, tanto trabalhos da faculdade e do estágio, quanto projetos pessoais para me divertir!
 
