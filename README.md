@@ -1,6 +1,6 @@
 # Prazer, sou o Marcos Paulo! 👋😄
 
-<img height="180em" src="https://i.gifer.com/758X.gif"/>
+<div style="padding-top:156.383%;position:relative;"><iframe src="https://gifer.com/embed/758X" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 Boas vindas ao meu repositório! Aqui você verá alguns projetos que venho desenvolvendo, tanto trabalhos da faculdade e do estágio, quanto projetos pessoais para me divertir!
 
