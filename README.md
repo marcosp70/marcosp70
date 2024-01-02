@@ -3,8 +3,7 @@
 Welcome to my repository! Here you'll find some projects that I've been developing, including college and internship works, as well as personal projects just for fun!
 
 ## Who am I? 🤓
-
-I'm Marcos Paulo, a Computer Engineering student at CEFET-MG. I'm currently in my 5th semester of college and a PRODEP scholarship holder working on a web development project using Django. I'm also the Scrum of the events team at the PET of Computer Engineering from my college.
+I'm Marcos Paulo, a Computer Engineering student at CEFET-MG. Currently, I am participating in an exchange program in the United States called the Community College Program (CCI Program), sponsored by the U.S. Department of State. At the moment, I'm pursuing a Certificate in Cybersecurity at Northern Virginia Community College, the second-largest community college in the United States of America. Additionally, I am undertaking two part-time internships as a research intern at Virginia Tech, the second-best university in Virginia, and at George Mason University, one of the premier universities in cybersecurity in the U.S.
 
 <div align="center">
   <a href="https://github.com/marcosp70">
